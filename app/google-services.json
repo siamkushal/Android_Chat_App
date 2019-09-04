@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009202105804",
+    "firebase_url": "https://androidchatapp829.firebaseio.com",
+    "project_id": "androidchatapp829",
+    "storage_bucket": "androidchatapp829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009202105804:android:67d9088393198ae1",
+        "android_client_info": {
+          "package_name": "siam.ca.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009202105804-cras9q75oskiv89lap6s1qp2p9fcmskg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "siam.ca.androidchatapp",
+            "certificate_hash": "2a481cb43393b973dda32b508f3f5cd8e572583a"
+          }
+        },
+        {
+          "client_id": "1009202105804-inrc6ga9i61t7dmgks7rqpdf2nginpsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GqO9JGChKhx-x5KtoWaoNi62nLH5trA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009202105804-inrc6ga9i61t7dmgks7rqpdf2nginpsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
